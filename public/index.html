@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<!-- 
+    ChatGPT Voice Interface Web App
+    Description: A simple web interface for interacting with ChatGPT using voice commands.
+    Features: 
+      - Start voice input with a button click.
+      - Displays conversation history in a designated area.
+      - Responsive design for compatibility with various device sizes.
+    Dependencies: 
+      - styles.css: Custom CSS for styling the web interface.
+      - scripts.js: JavaScript file handling voice input and output and ChatGPT interactions.
+-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatGPT Voice Interface</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to the stylesheet for styling the page -->
+</head>
+<body>
+    <div class="container">
+        <h1>ChatGPT Voice Interface</h1>
+        <button onclick="startVoiceInput()">Speak</button> <!-- Button to activate voice input -->
+        <span id="voice_status"></span> <!-- Indicator for the status of the voice interaction -->
+        <div id="conversation" class="conversation">
+            <!-- Conversation history will be dynamically displayed here -->
+        </div>
+    </div>
+    <script src="scripts.js"></script> <!-- Link to the JavaScript file for handling app logic -->
+</body>
+</html>
