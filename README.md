@@ -68,7 +68,7 @@ Your contributions drive this community-powered project. Whether it's code impro
 5. Initiate a Pull Request
 
 ## License
-This project is under a Custom License tailored for its unique mission and future prospects. Please see the `LICENSE` file for details.
+This project is under a Custom License tailored for its unique mission and future prospects. Please see the `Open-VietSiriGPT.txt` file for details.
 
 ## Connect with the Creator
 Tri Duong - [LinkedIn Profile](http://linkedin.com/in/trdq)
