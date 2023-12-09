@@ -1,0 +1,75 @@
+/* styles.css */
+
+/* 
+    ChatGPT Voice Interface Web App - Style Sheet
+    Description: Provides styling for the ChatGPT voice interface web app.
+    Features: 
+      - Clean and simple design with a light background.
+      - Stylish container for displaying the conversation.
+      - Distinct styling for messages from the user and ChatGPT.
+      - Customized button for voice input.
+    Note: Feel free to modify and expand the styling to suit your preferences.
+*/
+
+/* Style for the body of the page, setting the font and background color */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container for the main content, centered with a max width */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Styling for the main heading */
+h1 {
+    font-size: 28px;
+    color: #333;
+}
+
+/* Styling for the conversation box where messages are displayed */
+.conversation {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+    min-height: 300px;
+    overflow-y: auto;
+}
+
+/* General message styling, with padding and margin */
+.message {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+/* Specific styling for messages from the user */
+.user {
+    text-align: left;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Specific styling for messages from ChatGPT */
+.chatgpt {
+    text-align: left;
+    color: #666;
+}
+
+/* Styling for the 'Speak' button */
+button {
+    background-color: red;
+    color: white;
+    font-size: 24px;
+    padding: 60px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
