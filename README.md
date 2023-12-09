@@ -28,7 +28,7 @@ Open-VietSiriGPT is a forward-thinking web application that marries voice-to-tex
 ### Installation Guide
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/[YourGitHubUsername]/Open-VietSiriGPT.git
+   git clone https://github.com/[YourGitHubUsername]/Open-VietSiriGPT_License.git
    ```
 2. **Enter Project Directory**
    ```bash
