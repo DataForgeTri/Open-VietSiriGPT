@@ -1,0 +1,22 @@
+License for VietSiriGPT Project
+
+1. Definitions:
+   - "The Project": Refers to the VietSiriGPT project, including all its code, documentation, and other related materials.
+   - "The Author": Refers to Tri Duong, the original creator and founder of the VietSiriGPT project.
+   - "User": Refers to any individual or entity utilizing or contributing to The Project.
+
+2. Grant of Rights:
+   - The Author hereby grants Users the right to use, modify, and distribute The Project in any medium, for any purpose, provided that Users adhere to the terms of this license.
+
+3. Conditions:
+   - Users must credit The Author as the original creator of The Project in any derivative works or publications.
+   - Users are encouraged to use The Project for empowering Vietnamese elderly people and similar humanitarian causes.
+   - Users may commercialize derivatives of The Project after a period of 4-5 years from Dec 9, 2023.
+   - Any modifications or derivative works should ideally contribute to the larger cause of The Project.
+
+4. Disclaimer of Warranty and Liability:
+   - The Project is provided "as is", without warranty of any kind. The Author is not liable for any claims, damages, or other liabilities that arise from the use of The Project.
+   - Users agree to use The Project at their own risk.
+
+5. Termination:
+   - These terms are in effect until terminated by The Author. The rights granted under these terms will terminate automatically if a User fails to comply with them.
