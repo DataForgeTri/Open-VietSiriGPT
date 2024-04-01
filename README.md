@@ -74,7 +74,3 @@ This project is under a Custom License tailored for its unique mission and futur
 Tri Duong - [LinkedIn Profile](http://linkedin.com/in/trdq)
 
 Project Repository: [https://github.com/DataForgeTri/Open-VietSiriGPT](https://github.com/DataForgeTri/Open-VietSiriGPT)
-
----
-
-This revised README provides a clear, concise overview of your project, its features, and how to get started, along with information on contributing and contacting you. It's tailored to fit the nature and goals of your project, ensuring users understand its purpose and how to engage with it.
